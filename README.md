@@ -1,5 +1,5 @@
 # differential-equations-on-fractals
-An implementation of finite elements to approximate solutions to the Helmholtz equation on the Sierpinski Gasket fractal. This is based on a method developed in paper "The Finite Element on the Sierpisnki Gasket" by Michael Gibbons, Arjun Raj, and Robert Strichartz.
+An implementation of finite elements to approximate solutions to the Helmholtz equation on the Sierpinski Gasket fractal. This is based on a method developed in the paper "The Finite Element on the Sierpisnki Gasket" by Michael Gibbons, Arjun Raj, and Robert Strichartz.
 
 You can run it in Google Colab!
 
